@@ -1,0 +1,7 @@
+# build output
+/_site
+
+# devenv
+.devenv*
+.direnv
+.pre-commit-config.yaml

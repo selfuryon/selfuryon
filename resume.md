@@ -49,7 +49,7 @@ Principal SRE and tech lead of the Ethereum unit at P2P.org. Responsible for the
 (1.1M+ ETH) on bare-metal Kubernetes: 99.998% attestation participation, zero
 slashing on threshold-signed validators, #1 Lido operator by
 performance on Rated Network. Managed a team of up to four SREs as SRE manager in
-2024–2026. 15 years in infrastructure:
+2024-2026. 15 years in infrastructure:
 data-center networks first, Kubernetes platforms since 2019.
 :::
 
@@ -59,7 +59,7 @@ bare-metal Kubernetes cluster and grew it into the internal platform every team
 runs on, cutting infrastructure cost by more than 70%. Set the platform and
 security standards across teams, lead DevSecOps, and run a fleet of 32,000+
 Ethereum validators on top of it. Managed a team of up to four engineers as
-SRE manager in 2024–2026. 15 years in infrastructure: data-center networks first, Kubernetes
+SRE manager in 2024-2026. 15 years in infrastructure: data-center networks first, Kubernetes
 platforms since 2019.
 :::
 
@@ -69,7 +69,7 @@ platforms since 2019.
      Senior SRE Manager 2024-06-01, Principal SRE Manager 2025-10-01,
      Principal SRE Engineer 2026-02-02 (ETH Ecosystem). -->
 
-### [Principal SRE Engineer, Tech Lead · [P2P.org](https://p2p.org)]{.role} [2026-02 – now]{.when}
+### [Principal SRE Engineer, Tech Lead · [P2P.org](https://p2p.org)]{.role} [2026-02 - now]{.when}
 
 [Non-custodial staking provider, #1 Lido operator by performance on Rated Network · Remote]{.about}
 
@@ -91,7 +91,7 @@ Tech lead of the Ethereum unit: reliability, security and technical direction.
   signing, distributed validators on SSV and Obol, 63 node pairs across four
   European regions.
 - Keep the fleet at the top of the field: 99.998% attestation participation
-  and 99.57% correct head votes against 98.7% for the network (Jul–Oct 2026).
+  and 99.57% correct head votes against 98.7% for the network (Jul-Oct 2026).
   On Rated Network as of October 2026: #1 Lido operator over 7 and 30 days,
   #1 of all operators network-wide over 30 days and #3 over 7 days.
   <!-- Rated Network ranks as of 2026-10-06 (from Sergei); refresh before sending.
@@ -115,13 +115,13 @@ Tech lead of the Ethereum unit: reliability, security and technical direction.
 - Built network analytics on Xatu, Kafka and ClickHouse, and exposed it and
   Grafana to LLM agents over MCP, now used company-wide.
 
-### [SRE Manager (Senior → Principal) · P2P.org]{.role} [2024-06 – 2026-02]{.when}
+### [SRE Manager (Senior → Principal) · P2P.org]{.role} [2024-06 - 2026-02]{.when}
 
 Led the Ethereum SRE team of up to four engineers, staying hands-on.
 
 - Ran the team: hiring, 1:1s, growth plans and performance reviews.
 - Organised on-call and incident management for the unit: rotations,
-  escalation, P1–P5 severities by network; ran blameless postmortems with
+  escalation, P1-P5 severities by network; ran blameless postmortems with
   tracked action items.
 
 ::: {.only-sre}
@@ -131,7 +131,7 @@ Led the Ethereum SRE team of up to four engineers, staying hands-on.
 :::
 
 
-### [DevOps Engineer · P2P.org]{.role} [2021-07 – 2024-06]{.when}
+### [DevOps Engineer · P2P.org]{.role} [2021-07 - 2024-06]{.when}
 
 Moved the Ethereum infrastructure off cloud VMs onto company-owned bare metal.
 
@@ -147,7 +147,7 @@ Moved the Ethereum infrastructure off cloud VMs onto company-owned bare metal.
   versioned, KMS-encrypted object storage in a separate cloud.
 :::
 
-### [Senior DevOps Engineer · SoftPro]{.role} [2019-09 – 2021-07]{.when}
+### [Senior DevOps Engineer · SoftPro]{.role} [2019-09 - 2021-07]{.when}
 
 <!-- TODO: one line on what Softpro does -->
 [Software company · Moscow, Russia]{.about}
@@ -158,7 +158,7 @@ Moved the Ethereum infrastructure off cloud VMs onto company-owned bare metal.
   practice, wrote internal Terraform providers; cut deploy time from 40
   minutes to 4.
 
-### [Network Architect, Team Lead · HOST]{.role} [2011-04 – 2019-09]{.when}
+### [Network Architect, Team Lead · HOST]{.role} [2011-04 - 2019-09]{.when}
 
 <!-- TODO: one line on what HOST does (system integrator?) -->
 [IT integrator · Perm, Russia · Network Engineer (2011) → Senior (2014) → Architect, Team Lead (2017)]{.about}
@@ -198,7 +198,7 @@ Programming
 
 ## Education
 
-### [Computer Security, 5.5-year specialist degree · Perm State University]{.role} [2006 – 2012]{.when}
+### [Computer Security, 5.5-year specialist degree · Perm State University]{.role} [2006 - 2012]{.when}
 
 [Faculty of Mechanics and Mathematics · Perm, Russia]{.about}
 
